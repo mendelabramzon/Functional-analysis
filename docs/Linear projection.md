@@ -1,0 +1,1 @@
+Let $E$ is a [[vector linear space]], $G\subseteq E$, the projection(linear) from $E$ to $G$ is a function (linear) $p: E\to G$ such that $p(x)=x\ \ \forall x\in G$  

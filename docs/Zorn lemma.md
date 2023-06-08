@@ -1,0 +1,1 @@
+Every ordered inductive non-empty set has a maximal element 

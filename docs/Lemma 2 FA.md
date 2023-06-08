@@ -1,0 +1,1 @@
+$F$ is a [[Banach space]] then [[Dual topological space]] is also a [[Banach space]]

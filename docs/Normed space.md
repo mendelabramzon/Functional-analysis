@@ -1,0 +1,1 @@
+is a space where the norm is defined
